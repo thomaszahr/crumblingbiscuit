@@ -7,6 +7,15 @@
 	"items": [
 		
 			{
+				"id": "http://crumblingbiscuit.micro.blog/2026/01/23/made-another-tasty-joghurt-whey.html",
+				
+				"content_html": "<p>Made another tasty joghurt whey bread. Nice. This tome I shaped a batard and baked it long and hot.</p>\n<p><img src=\"https://www.zahr.koeln/uploads/2026/47b2d76882.jpg\" alt=\"A freshly baked dark loaf of bread is cooling on a wire rack.\"></p>\n<p>#bread #brot #sourdough #LievitoMadre #Sauerteig</p>\n",
+				"content_text": "Made another tasty joghurt whey bread. Nice. This tome I shaped a batard and baked it long and hot. \n\n![A freshly baked dark loaf of bread is cooling on a wire rack.](https://www.zahr.koeln/uploads/2026/47b2d76882.jpg)\n\n#bread #brot #sourdough #LievitoMadre #Sauerteig\n",
+				"date_published": "2026-01-23T17:29:34+01:00",
+				"url": "https://www.zahr.koeln/2026/01/23/made-another-tasty-joghurt-whey.html",
+				"tags": ["sourdough","photo","baking"]
+			},
+			{
 				"id": "http://crumblingbiscuit.micro.blog/2026/01/17/made-a-tasty-bread-with.html",
 				
 				"content_html": "<p>Made a tasty bread with joghurt whey. Nice. Next time it needs to bake longer.</p>\n<p><img src=\"https://www.zahr.koeln/uploads/2026/2e3d6a6e8b.jpg\" alt=\"A round loaf of bread with a golden crust rests on a cooling rack.\"></p>\n<p><img src=\"https://www.zahr.koeln/uploads/2026/0477458d78.jpg\" alt=\"A loaf of crusty bread is sliced in half on a cutting board, next to a serrated knife.\"></p>\n<p>#bread #brot #sourdough #LievitoMadre #Sauerteig</p>\n",
@@ -5875,7 +5884,7 @@
 				"id": "http://crumblingbiscuit.micro.blog/2021/05/14/no-sourdough-for.html",
 				
 				"content_html": "<p>No 21.2021 #sourdough - for once without sideburst</p>\n<!-- raw HTML omitted -->\n",
-				"content_text": "No 21.2021 #sourdough - for once without sideburst\n\n<img src=\"uploads/2021/bf6ae87356.jpg\" width=\"600\" height=\"599\" alt=\"\" />\n",
+				"content_text": "No 21.2021 #sourdough - for once without sideburst\n\n<img src=\"https://cdn.uploads.micro.blog/6780/2021/bf6ae87356.jpg\" width=\"600\" height=\"599\" alt=\"\" />\n",
 				"date_published": "2021-05-14T07:55:23+01:00",
 				"url": "https://www.zahr.koeln/2021/05/14/no-sourdough-for.html",
 				"tags": ["sourdough","photo"]
