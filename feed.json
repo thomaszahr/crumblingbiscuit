@@ -7,6 +7,15 @@
 	"items": [
 		
 			{
+				"id": "http://crumblingbiscuit.micro.blog/2026/02/22/not-a-baguette-got-the.html",
+				
+				"content_html": "<p>Not a baguette!</p>\n<p>Got the proofing sorted, but my loaf got a bit long.</p>\n<p><img src=\"https://www.zahr.koeln/uploads/2026/4680516c36.jpg\" alt=\"A freshly baked, crusty loaf of bread rests on a cooling rack.\"></p>\n<p>#bread #brot #sourdough #LievitoMadre #Sauerteig  #whey #molke @brotbacken</p>\n",
+				"content_text": "Not a baguette!\n\nGot the proofing sorted, but my loaf got a bit long. \n\n![A freshly baked, crusty loaf of bread rests on a cooling rack.](https://www.zahr.koeln/uploads/2026/4680516c36.jpg)\n\n#bread #brot #sourdough #LievitoMadre #Sauerteig  #whey #molke @brotbacken\n\n",
+				"date_published": "2026-02-22T13:07:19+01:00",
+				"url": "https://www.zahr.koeln/2026/02/22/not-a-baguette-got-the.html",
+				"tags": ["sourdough","photo","baking"]
+			},
+			{
 				"id": "http://crumblingbiscuit.micro.blog/2026/02/19/this-is-a-strange-one.html",
 				
 				"content_html": "<p>This is a strange one. For one (too) long proofing led to a forming mishap. And, the loaf is more &ldquo;blond&rdquo; then the last ones. Water instead of whey? Time and temperature were the same. Smells good though.</p>\n<p><img src=\"https://www.zahr.koeln/uploads/2026/6d09d2d9a3.jpg\" alt=\"A freshly baked, uniquely shaped loaf of bread rests on a cooling rack.\"></p>\n<p>#bread #brot #sourdough #LievitoMadre #Sauerteig @brotbacken</p>\n",
@@ -45,8 +54,8 @@
 			{
 				"id": "http://crumblingbiscuit.micro.blog/2026/02/12/forgot-to-cut-it-still.html",
 				
-				"content_html": "<p>Forgot to cut it, still looks good though and smells even better</p>\n<p><img src=\"https://www.zahr.koeln/uploads/2026/e3cb695ad4.jpg\" alt=\"A freshly baked loaf of bread cools on a wire rack placed on a stovetop.\">)</p>\n<p>#bread #brot #sourdough #LievitoMadre #Sauerteig @brotbacken@fedigroups.social</p>\n",
-				"content_text": "Forgot to cut it, still looks good though and smells even better \n\n![A freshly baked loaf of bread cools on a wire rack placed on a stovetop.](https://www.zahr.koeln/uploads/2026/e3cb695ad4.jpg))\n\n#bread #brot #sourdough #LievitoMadre #Sauerteig @brotbacken@fedigroups.social\n",
+				"content_html": "<p>Forgot to cut it, still looks good though and smells even better</p>\n<p><img src=\"https://cdn.uploads.micro.blog/6780/2026/e3cb695ad4.jpg\" alt=\"A freshly baked loaf of bread cools on a wire rack placed on a stovetop.\">)</p>\n<p>#bread #brot #sourdough #LievitoMadre #Sauerteig @brotbacken@fedigroups.social</p>\n",
+				"content_text": "Forgot to cut it, still looks good though and smells even better \n\n![A freshly baked loaf of bread cools on a wire rack placed on a stovetop.](https://cdn.uploads.micro.blog/6780/2026/e3cb695ad4.jpg))\n\n#bread #brot #sourdough #LievitoMadre #Sauerteig @brotbacken@fedigroups.social\n",
 				"date_published": "2026-02-12T11:18:14+01:00",
 				"url": "https://www.zahr.koeln/2026/02/12/forgot-to-cut-it-still.html",
 				"tags": ["sourdough","photo","baking"]
@@ -116,8 +125,8 @@
 			{
 				"id": "http://crumblingbiscuit.micro.blog/2026/01/27/ciabatta-same-recipe-as-last.html",
 				
-				"content_html": "<p>Ciabatta, same recipe as last time</p>\n<p><img src=\"https://www.zahr.koeln/uploads/2026/img-0475.jpg\" alt=\"A freshly baked loaf of crusty ciabatta is cooling on a wire rack.\"></p>\n<p><img src=\"https://www.zahr.koeln/uploads/2026/34e4a3f515.jpg\" alt=\"Several slices of crusty ciabatta are arranged on a plate.\"></p>\n<p>#ciabatta #bread #brot #sourdough #LievitoMadre #Sauerteig</p>\n",
-				"content_text": "Ciabatta, same recipe as last time\n\n![A freshly baked loaf of crusty ciabatta is cooling on a wire rack.](https://www.zahr.koeln/uploads/2026/img-0475.jpg)\n\n![Several slices of crusty ciabatta are arranged on a plate.](https://www.zahr.koeln/uploads/2026/34e4a3f515.jpg)\n\n#ciabatta #bread #brot #sourdough #LievitoMadre #Sauerteig\n",
+				"content_html": "<p>Ciabatta, same recipe as last time</p>\n<p><img src=\"https://cdn.uploads.micro.blog/6780/2026/img-0475.jpg\" alt=\"A freshly baked loaf of crusty ciabatta is cooling on a wire rack.\"></p>\n<p><img src=\"https://cdn.uploads.micro.blog/6780/2026/34e4a3f515.jpg\" alt=\"Several slices of crusty ciabatta are arranged on a plate.\"></p>\n<p>#ciabatta #bread #brot #sourdough #LievitoMadre #Sauerteig</p>\n",
+				"content_text": "Ciabatta, same recipe as last time\n\n![A freshly baked loaf of crusty ciabatta is cooling on a wire rack.](https://cdn.uploads.micro.blog/6780/2026/img-0475.jpg)\n\n![Several slices of crusty ciabatta are arranged on a plate.](https://cdn.uploads.micro.blog/6780/2026/34e4a3f515.jpg)\n\n#ciabatta #bread #brot #sourdough #LievitoMadre #Sauerteig\n",
 				"date_published": "2026-01-27T19:19:06+01:00",
 				"url": "https://www.zahr.koeln/2026/01/27/ciabatta-same-recipe-as-last.html",
 				"tags": ["sourdough","photo","baking"]
@@ -125,8 +134,8 @@
 			{
 				"id": "http://crumblingbiscuit.micro.blog/2026/01/23/made-another-tasty-joghurt-whey.html",
 				
-				"content_html": "<p>Made another tasty joghurt whey bread. Nice. This tome I shaped a batard and baked it long and hot.</p>\n<p><img src=\"https://cdn.uploads.micro.blog/6780/2026/47b2d76882.jpg\" alt=\"A freshly baked dark loaf of bread is cooling on a wire rack.\"></p>\n<p>#bread #brot #sourdough #LievitoMadre #Sauerteig</p>\n",
-				"content_text": "Made another tasty joghurt whey bread. Nice. This tome I shaped a batard and baked it long and hot. \n\n![A freshly baked dark loaf of bread is cooling on a wire rack.](https://cdn.uploads.micro.blog/6780/2026/47b2d76882.jpg)\n\n#bread #brot #sourdough #LievitoMadre #Sauerteig\n",
+				"content_html": "<p>Made another tasty joghurt whey bread. Nice. This tome I shaped a batard and baked it long and hot.</p>\n<p><img src=\"https://www.zahr.koeln/uploads/2026/47b2d76882.jpg\" alt=\"A freshly baked dark loaf of bread is cooling on a wire rack.\"></p>\n<p>#bread #brot #sourdough #LievitoMadre #Sauerteig</p>\n",
+				"content_text": "Made another tasty joghurt whey bread. Nice. This tome I shaped a batard and baked it long and hot. \n\n![A freshly baked dark loaf of bread is cooling on a wire rack.](https://www.zahr.koeln/uploads/2026/47b2d76882.jpg)\n\n#bread #brot #sourdough #LievitoMadre #Sauerteig\n",
 				"date_published": "2026-01-23T17:29:34+01:00",
 				"url": "https://www.zahr.koeln/2026/01/23/made-another-tasty-joghurt-whey.html",
 				"tags": ["sourdough","photo","baking"]
@@ -224,8 +233,8 @@
 			{
 				"id": "http://crumblingbiscuit.micro.blog/2025/12/29/so-made-another-focaccia-this.html",
 				
-				"content_html": "<p>So, made another focaccia this time with some leftover raclette cheese and a pear.</p>\n<p>The dough is a bit on the liquid side, but it is well fermented.</p>\n<p><img src=\"https://cdn.uploads.micro.blog/6780/2025/5650ad0d2a.jpg\" alt=\"Sliced pear and raclette cheese are arranged on a focaccia dough in a baking tray.\"></p>\n<p><img src=\"https://cdn.uploads.micro.blog/6780/2025/8d4f6da3ff.jpg\" alt=\"A rectangular focaccia topped with pear and melted cheese sits on a baking tray.\"></p>\n<p>#focaccia #bread #brot #sourdough #LievitoMadre #Sauerteig</p>\n",
-				"content_text": "\n\nSo, made another focaccia this time with some leftover raclette cheese and a pear.\n\nThe dough is a bit on the liquid side, but it is well fermented.\n\n![Sliced pear and raclette cheese are arranged on a focaccia dough in a baking tray.](https://cdn.uploads.micro.blog/6780/2025/5650ad0d2a.jpg)\n\n![A rectangular focaccia topped with pear and melted cheese sits on a baking tray.](https://cdn.uploads.micro.blog/6780/2025/8d4f6da3ff.jpg)\n\n\n#focaccia #bread #brot #sourdough #LievitoMadre #Sauerteig\n",
+				"content_html": "<p>So, made another focaccia this time with some leftover raclette cheese and a pear.</p>\n<p>The dough is a bit on the liquid side, but it is well fermented.</p>\n<p><img src=\"https://www.zahr.koeln/uploads/2025/5650ad0d2a.jpg\" alt=\"Sliced pear and raclette cheese are arranged on a focaccia dough in a baking tray.\"></p>\n<p><img src=\"https://www.zahr.koeln/uploads/2025/8d4f6da3ff.jpg\" alt=\"A rectangular focaccia topped with pear and melted cheese sits on a baking tray.\"></p>\n<p>#focaccia #bread #brot #sourdough #LievitoMadre #Sauerteig</p>\n",
+				"content_text": "\n\nSo, made another focaccia this time with some leftover raclette cheese and a pear.\n\nThe dough is a bit on the liquid side, but it is well fermented.\n\n![Sliced pear and raclette cheese are arranged on a focaccia dough in a baking tray.](https://www.zahr.koeln/uploads/2025/5650ad0d2a.jpg)\n\n![A rectangular focaccia topped with pear and melted cheese sits on a baking tray.](https://www.zahr.koeln/uploads/2025/8d4f6da3ff.jpg)\n\n\n#focaccia #bread #brot #sourdough #LievitoMadre #Sauerteig\n",
 				"date_published": "2025-12-29T18:30:41+01:00",
 				"url": "https://www.zahr.koeln/2025/12/29/so-made-another-focaccia-this.html",
 				"tags": ["sourdough","photo","baking"]
